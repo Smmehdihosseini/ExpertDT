@@ -26,7 +26,7 @@ def patient_split(data_df,
     temp_data_df = data_df.copy()
 
     if not load:
-        print(">>> Splitting Train/Test IDs ...")
+        print(">>> Splitting Training/Test IDs ...")
         train_test_ids = {'Train':{}, 'Test': {}}
 
         for subtype, count in split_ratio['Train'].items():
