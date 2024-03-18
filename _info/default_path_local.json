@@ -1,0 +1,14 @@
+{
+    "root_dir":"F:\\My Files\\Thesis\\Dataset\\RCC_WSIs",
+    "unknown_dir":"F:\\My Files\\Thesis\\Dataset\\2023_WSIs",
+    "ids_dir":"_info/ids.csv",
+    "split_dir":"_info/split_ratio.json",
+    "split_ids_dir":"_info/split_ids.json",
+    "train_df_dir":"_dfs/train_df.csv",
+    "tree_pair_dir":"_info/tree_pair_dict.json",
+    "stage_df_dir":"_dfs",
+    "weights_dir":"F://My Files/Thesis/Dataset/_weights",
+    "cache_dir":"E://cache_img/",
+    "results_dir":"_res/expertdt_results",
+    "figures_dir":"_figs"
+}

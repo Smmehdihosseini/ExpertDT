@@ -1,0 +1,15 @@
+{
+    "Train":{
+                "ccRCC":33,
+                "pRCC":15,
+                "CHROMO":3,
+                "ONCOCYTOMA":3
+    },
+
+    "Test":{
+        "ccRCC":23,
+        "pRCC":7,
+        "CHROMO":3,
+        "ONCOCYTOMA":4
+}
+}
